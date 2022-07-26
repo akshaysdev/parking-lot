@@ -3,7 +3,8 @@ const command = {
   park_vehicle: 'Park',
   slot_number_of_age: 'Slot_numbers_for_driver_of_age',
   slot_number_of_vehicle_number: 'Slot_number_for_car_with_number',
-  leave_slot: 'Leave'
+  leave_slot: 'Leave',
+  vehicle_number: 'Vehicle_registration_number_for_driver_of_age'
 }
 
 const index = {
